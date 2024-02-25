@@ -1,0 +1,6 @@
+2022-09-18 12:57:26,953 - kedro.extras.extensions.ipython - INFO - No path argument was provided. Using: None
+2022-09-18 12:57:26,955 - kedro.extras.extensions.ipython - WARNING - Kedro extension was registered but couldn't find a Kedro project. Make sure you run `%reload_kedro <path_to_kedro_project>`.
+2022-09-20 20:32:57,633 - kedro.extras.extensions.ipython - INFO - No path argument was provided. Using: None
+2022-09-20 20:32:57,635 - kedro.extras.extensions.ipython - WARNING - Kedro extension was registered but couldn't find a Kedro project. Make sure you run `%reload_kedro <path_to_kedro_project>`.
+2022-09-23 19:31:38,729 - kedro.extras.extensions.ipython - INFO - No path argument was provided. Using: None
+2022-09-23 19:31:38,731 - kedro.extras.extensions.ipython - WARNING - Kedro extension was registered but couldn't find a Kedro project. Make sure you run `%reload_kedro <path_to_kedro_project>`.

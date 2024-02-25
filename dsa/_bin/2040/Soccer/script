@@ -1,0 +1,6 @@
+AVLTree<Integer, String> pointTree = new AVLTree<>();
+pointTree.put(1320, "B");
+pointTree.put(112, "A");
+pointTree.put(50, "E");
+pointTree.put(32, "D");
+pointTree.put(10, "C");
